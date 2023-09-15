@@ -1,2 +1,3 @@
 this is test file 1
 new line added after 1st commit
+3rd line after new branch, 2nd commit
